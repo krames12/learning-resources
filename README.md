@@ -10,6 +10,9 @@
 - [Traversy Media Javascript playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
 - [Javascript 30](https://javascript30.com/)
 
+## Exercises / Practice 
+- [Exercism](https://exercism.org/tracks/javascript/)
+
 # Python Learning Resources
 
 ## Courses
