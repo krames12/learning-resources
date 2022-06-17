@@ -2,6 +2,7 @@
 
 ## Courses
 - [freeCodeCamp - Mostly project based learning](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
 - [Codecademy Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ## Videos / Playlists
